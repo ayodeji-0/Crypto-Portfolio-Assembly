@@ -1,3 +1,10 @@
+# Config file
+config.py
+
+# FGI historical data
+altme_fgi.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
