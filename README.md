@@ -10,6 +10,7 @@ Long Only
 3. Highest Esposure Score (w = Beta * Correlation)
 
 Long/Short
+
 5. Market Neutral
 6. Leveraged Short Positions
 
