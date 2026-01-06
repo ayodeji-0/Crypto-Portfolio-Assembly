@@ -7,7 +7,7 @@ Dynamic Weightings are Calculated Using:
 Long Only
 1. Highest Beta/Correlation Ratio
 2. Highest Correlation/Beta Ratio
-3. Highest Esposure Score (w = Beta * Correlation)
+3. Highest Exposure Score (w = Beta * Correlation)
 
 Long/Short
 
